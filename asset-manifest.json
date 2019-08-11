@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/webiste-personal/static/css/main.2bdf2dbe.chunk.css",
+    "main.js": "/webiste-personal/static/js/main.b558a95e.chunk.js",
+    "main.js.map": "/webiste-personal/static/js/main.b558a95e.chunk.js.map",
+    "runtime~main.js": "/webiste-personal/static/js/runtime~main.62428b39.js",
+    "runtime~main.js.map": "/webiste-personal/static/js/runtime~main.62428b39.js.map",
+    "static/js/2.974e10d9.chunk.js": "/webiste-personal/static/js/2.974e10d9.chunk.js",
+    "static/js/2.974e10d9.chunk.js.map": "/webiste-personal/static/js/2.974e10d9.chunk.js.map",
+    "index.html": "/webiste-personal/index.html",
+    "precache-manifest.de793b0ea8fdc8bcf4719ec3ac08b0d5.js": "/webiste-personal/precache-manifest.de793b0ea8fdc8bcf4719ec3ac08b0d5.js",
+    "service-worker.js": "/webiste-personal/service-worker.js",
+    "static/css/main.2bdf2dbe.chunk.css.map": "/webiste-personal/static/css/main.2bdf2dbe.chunk.css.map",
+    "static/media/CRR.jpeg": "/webiste-personal/static/media/CRR.fac7e06d.jpeg",
+    "static/media/Seminar.jpg": "/webiste-personal/static/media/Seminar.dc3525f2.jpg",
+    "static/media/SuryaImage.jpg": "/webiste-personal/static/media/SuryaImage.9aa1702c.jpg",
+    "static/media/logo.svg": "/webiste-personal/static/media/logo.5d5d9eef.svg"
+  }
+}
